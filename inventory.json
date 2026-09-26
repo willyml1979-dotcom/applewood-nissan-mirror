@@ -1,0 +1,130 @@
+{
+  "dealership": "Applewood Nissan",
+  "generated_at": "2026-09-26T12:53:04",
+  "vehicle_count": 11,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2018AudiS5 CabrioletTechnik",
+      "vin": "WAU24GF50JN000638",
+      "stock": "NSB6266",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/04e293da3bbe.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-audi-s5-cabriolet-technik-mWTbTsTNQm2fNfaSyJToHwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-audi-s5-cabriolet-technik-mWTbTsTNQm2fNfaSyJToHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:32:16",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018JaguarE-PACESE",
+      "vin": "SADFP2FX0J1Z30776",
+      "stock": "NS6L689",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/b1d6bb66d9ea.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-jaguar-e-pace-se-IB3vr0olRw6M0gBQU0YaeQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-jaguar-e-pace-se-IB3vr0olRw6M0gBQU0YaeQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:32:25",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018Ram1500Big Horn",
+      "vin": "1C6RR7LT5JS122393",
+      "stock": "NSB6907",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/904ee4b31728.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-ram-1500-big-horn-ByduDMXdRCy8o28WrgxWWgvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-ram-1500-big-horn-ByduDMXdRCy8o28WrgxWWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:32:36",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019JeepGrand CherokeeSRT",
+      "vin": "1C4RJFDJXKC816130",
+      "stock": "SFF6214",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/82f17935d5c3.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-jeep-grand-cherokee-srt-QHTzzeBOSxCPdAfiEkYSdgvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-jeep-grand-cherokee-srt-QHTzzeBOSxCPdAfiEkYSdgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:32:46",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019NissanKicksS",
+      "vin": "3N1CP5CU9KL552478",
+      "stock": "MRP6135",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/9b7e149965e7.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-s-ckfZLZ3pTjmeKpq2GbJe5Avdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-s-ckfZLZ3pTjmeKpq2GbJe5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:32:54",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019NissanKicksSV",
+      "vin": "3N1CP5CU7KL550843",
+      "stock": "NS6R756",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/add2a474231a.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-sv-eqP4W0mmTwaWwGdmEamrnQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-sv-eqP4W0mmTwaWwGdmEamrnQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:33:06",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019NissanRogueSV",
+      "vin": "5N1AT2MV2KC836631",
+      "stock": "NSB6468",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/3ae2a8064f07.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-rogue-sv-hEDHijMxRCCrYQ6mYUr6eQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-rogue-sv-hEDHijMxRCCrYQ6mYUr6eQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:33:17",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019Ram1500 ClassicExpress",
+      "vin": "1C6RR7FG4KS691655",
+      "stock": "NS6R693",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/2b24c17cba8e.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-ram-1500-classic-express-u94T5ys2THOdZ8r0DETc5wvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-ram-1500-classic-express-u94T5ys2THOdZ8r0DETc5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:33:27",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019VolkswagenTiguanComfortline",
+      "vin": "3VV2B7AX8KM042652",
+      "stock": "NS6R895",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/771faa353650.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-volkswagen-tiguan-comfortline-LDwnB4rISra6ssKTg8SJjwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-volkswagen-tiguan-comfortline-LDwnB4rISra6ssKTg8SJjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:33:37",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020FordEscapeSE",
+      "vin": "1FMCU9G66LUA13411",
+      "stock": "NSB6341",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/288d8153e88b.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2020-ford-escape-se-sJocVivXRCyb3p2m2vytowvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2020-ford-escape-se-sJocVivXRCyb3p2m2vytowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:33:48",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021NissanRogueSV",
+      "vin": "5N1AT3BB6MC811913",
+      "stock": "NS6R734",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/82056221bf60.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2021-nissan-rogue-sv-Bfz7QCgNSeKfX49ZftJN0wvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2021-nissan-rogue-sv-Bfz7QCgNSeKfX49ZftJN0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:33:59",
+      "condition": "used"
+    }
+  ]
+}
