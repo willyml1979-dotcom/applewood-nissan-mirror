@@ -1,10 +1,88 @@
 {
   "dealership": "Applewood Nissan",
-  "generated_at": "2026-09-26T17:37:01",
-  "vehicle_count": 11,
+  "generated_at": "2026-10-07T20:42:18",
+  "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "Used2016ChevroletSilverado 1500LS",
+      "vin": "3GCUKNEC3GG382168",
+      "stock": "NS6R661",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/14a77ddac20c.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2016-chevrolet-silverado-1500-ls-vgsinyeIR2WZtxJJX0cf7gvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2016-chevrolet-silverado-1500-ls-vgsinyeIR2WZtxJJX0cf7gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:39:46",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2016JeepCherokeeNorth",
+      "vin": "1C4PJMCS8GW166225",
+      "stock": "NSB6833",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/caad4c2df9c9.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2016-jeep-cherokee-north-rvvfhElYQ2micVABHoEhxQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2016-jeep-cherokee-north-rvvfhElYQ2micVABHoEhxQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:39:55",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2016NissanPathfinderUNKNOWN",
+      "vin": "5N1AR2MM5GC620964",
+      "stock": "NSB6096",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/66c54fe70dfa.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2016-nissan-pathfinder-unknown-L0R6Eiz9RaeMgHH18lTGywvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2016-nissan-pathfinder-unknown-L0R6Eiz9RaeMgHH18lTGywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:40:05",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2017JeepCherokeeNorth",
+      "vin": "1C4PJLCB0HD222035",
+      "stock": "NSB6632",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/994942f65d8d.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2017-jeep-cherokee-north-lPCtQtO6SFGUdoxH9Du5Zwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2017-jeep-cherokee-north-lPCtQtO6SFGUdoxH9Du5Zwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:40:14",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2017KiaRioEX Special Edition",
+      "vin": "KNADN5A33H6805215",
+      "stock": "6Q8190B",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/3a79ea2958ed.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2017-kia-rio-ex-special-edition-NWZepW5jQImdjkMO3QQcuQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2017-kia-rio-ex-special-edition-NWZepW5jQImdjkMO3QQcuQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:40:23",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2017NissanRogueUnknown",
+      "vin": "5N1AT2MV6HC855322",
+      "stock": "NS6R032",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/c086b455eb0b.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2017-nissan-rogue-unknown-bQomDIqnRM6pFI1KpEfp3wvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2017-nissan-rogue-unknown-bQomDIqnRM6pFI1KpEfp3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:40:32",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
     {
       "name": "Used2018AudiS5 CabrioletTechnik",
       "vin": "WAU24GF50JN000638",
@@ -13,8 +91,23 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/04e293da3bbe.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-audi-s5-cabriolet-technik-mWTbTsTNQm2fNfaSyJToHwvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-audi-s5-cabriolet-technik-mWTbTsTNQm2fNfaSyJToHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:32:16",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:40:51",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2018FordF-150UNKNOWN",
+      "vin": "1FTEW1EGXJFE29712",
+      "stock": "NSB6971",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/c20c6351393d.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-ford-f-150-unknown-bHuQ5Cr8TkiQqT29oQA7aQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-ford-f-150-unknown-bHuQ5Cr8TkiQqT29oQA7aQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:40:41",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2018JaguarE-PACESE",
@@ -25,7 +118,9 @@
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-jaguar-e-pace-se-IB3vr0olRw6M0gBQU0YaeQvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-jaguar-e-pace-se-IB3vr0olRw6M0gBQU0YaeQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:32:25",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2018Ram1500Big Horn",
@@ -36,7 +131,9 @@
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2018-ram-1500-big-horn-ByduDMXdRCy8o28WrgxWWgvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2018-ram-1500-big-horn-ByduDMXdRCy8o28WrgxWWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:32:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019JeepGrand CherokeeSRT",
@@ -46,8 +143,10 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/82f17935d5c3.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-jeep-grand-cherokee-srt-QHTzzeBOSxCPdAfiEkYSdgvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-jeep-grand-cherokee-srt-QHTzzeBOSxCPdAfiEkYSdgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:32:46",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:41:06",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019NissanKicksS",
@@ -57,8 +156,10 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/9b7e149965e7.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-s-ckfZLZ3pTjmeKpq2GbJe5Avdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-s-ckfZLZ3pTjmeKpq2GbJe5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:32:54",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:41:17",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019NissanKicksSV",
@@ -68,8 +169,10 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/add2a474231a.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-sv-eqP4W0mmTwaWwGdmEamrnQvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-kicks-sv-eqP4W0mmTwaWwGdmEamrnQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:33:06",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:41:28",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019NissanRogueSV",
@@ -79,8 +182,10 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/3ae2a8064f07.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-rogue-sv-hEDHijMxRCCrYQ6mYUr6eQvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-nissan-rogue-sv-hEDHijMxRCCrYQ6mYUr6eQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:33:17",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:41:38",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019Ram1500 ClassicExpress",
@@ -90,8 +195,10 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/2b24c17cba8e.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-ram-1500-classic-express-u94T5ys2THOdZ8r0DETc5wvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-ram-1500-classic-express-u94T5ys2THOdZ8r0DETc5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:33:27",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:41:50",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019VolkswagenTiguanComfortline",
@@ -102,7 +209,9 @@
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2019-volkswagen-tiguan-comfortline-LDwnB4rISra6ssKTg8SJjwvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2019-volkswagen-tiguan-comfortline-LDwnB4rISra6ssKTg8SJjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:33:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2020FordEscapeSE",
@@ -112,8 +221,10 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/288d8153e88b.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2020-ford-escape-se-sJocVivXRCyb3p2m2vytowvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2020-ford-escape-se-sJocVivXRCyb3p2m2vytowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:33:48",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:42:02",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2021NissanRogueSV",
@@ -123,8 +234,176 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/used/82056221bf60.html",
       "source_url": "https://www.applewoodnissansurrey.ca/inventory/2021-nissan-rogue-sv-Bfz7QCgNSeKfX49ZftJN0wvdp",
       "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2021-nissan-rogue-sv-Bfz7QCgNSeKfX49ZftJN0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:33:59",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:42:12",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2025NissanVersaSR",
+      "vin": "3N1CN8FV3SL873315",
+      "stock": "NS5V331",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/4408eee92799.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2025-nissan-versa-sr-Vn09Tv9eQECftRqk9HD7PAvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2025-nissan-versa-sr-Vn09Tv9eQECftRqk9HD7PAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T18:19:36",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanArmadaPlatinum",
+      "vin": "JN8AY3EE4T9432436",
+      "stock": "NS6D243",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/bcb59c0550cc.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-armada-platinum-52tP0ITSQt24W5m4AmlLgwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-armada-platinum-52tP0ITSQt24W5m4AmlLgwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:29:30",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanKicksS",
+      "vin": "3N8AP6BE2TL404375",
+      "stock": "NS6K437",
+      "color": "Brown",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/26310f0f5db1.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-kicks-s-5Ay1q3oiTaKb4KeHd2Zgcwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-kicks-s-5Ay1q3oiTaKb4KeHd2Zgcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:29:43",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanKicksSR",
+      "vin": "3N8AP6DD3TL415549",
+      "stock": "NS6K554",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/cd65924dadf8.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-kicks-sr-0IuhlcSASHOWk1CQWAV76Qvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-kicks-sr-0IuhlcSASHOWk1CQWAV76Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:29:56",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanKicksSV",
+      "vin": "3N8AP6CB4TL405354",
+      "stock": "NS6K535",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/1e9bb860a130.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-kicks-sv-1shHGwqiQNWgBViUYuv1ogvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-kicks-sv-1shHGwqiQNWgBViUYuv1ogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:30:07",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanLEAFSV+",
+      "vin": "JN1AZ2CA0TM306898",
+      "stock": "NS6L689",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/8c0fcde1d9e5.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-leaf-sv-5tFlZVRvRYuK3KIL463MQwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-leaf-sv-5tFlZVRvRYuK3KIL463MQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:30:19",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanRoguePlatinum",
+      "vin": "JN8BT3DD6TW014747",
+      "stock": "NS6R474",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/c71349e1cff0.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-platinum-2yOEqjiaR1KxeBj9Hhktjgvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-platinum-2yOEqjiaR1KxeBj9Hhktjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:30:30",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB4TW388419",
+      "stock": "NS6R841",
+      "color": "Tan",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/b79a81742f05.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-rock-creek-5aAC7QoxT7WHNNz3e0VVtQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-rock-creek-5aAC7QoxT7WHNNz3e0VVtQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:30:41",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanRogueSV Moonroof",
+      "vin": "JN8BT3BB3TW098656",
+      "stock": "NS6R865",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/5468de6d0cc0.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-sv-moonroof-2ecYB2owQ4O7JUJ99PCdRQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-sv-moonroof-2ecYB2owQ4O7JUJ99PCdRQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:30:51",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanRogueSV Moonroof",
+      "vin": "JN8BT3BB6TW385277",
+      "stock": "NS6R527",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/8a7220cd8a46.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-sv-moonroof-4xMxaIh7TLqzIopEUXNDGwvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-rogue-sv-moonroof-4xMxaIh7TLqzIopEUXNDGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:31:02",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanSentraS",
+      "vin": "3N1AB9BV0TY223695",
+      "stock": "NS6S369",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/64b2e7f2919a.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-sentra-s-5JHBiJjRSNupctLn7SyB8gvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-sentra-s-5JHBiJjRSNupctLn7SyB8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:31:15",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "New2026NissanSentraSR",
+      "vin": "3N1AB9DV8TY234411",
+      "stock": "NS6S441",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-nissan-mirror/new/371dba90eec3.html",
+      "source_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-sentra-sr-3y87YtLVQ5myrk5V1idOfQvdp",
+      "dealer_url": "https://www.applewoodnissansurrey.ca/inventory/2026-nissan-sentra-sr-3y87YtLVQ5myrk5V1idOfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T18:31:24",
+      "odometer_km": 16000,
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
